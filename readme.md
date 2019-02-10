@@ -20,13 +20,13 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![Web Developer Roadmap Introduction](./images/intro.png)
 
-## Frontend Roadmap
+<!-- ## Frontend Roadmap
 
 ![Frontend Roadmap](./images/frontend.png)
 
 ## Back-end Roadmap
 
-![Back-end Roadmap](./images/backend.png)
+![Back-end Roadmap](./images/backend.png) -->
 
 ## SRE Roadmap
 
